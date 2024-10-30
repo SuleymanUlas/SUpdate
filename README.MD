@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<p align="center"><img src="./profil/logo.png" alt="logo" border="0"></p>
 
 ### <p align="center">The Super User Enginee</p>
 <hr>
